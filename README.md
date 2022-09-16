@@ -2,7 +2,7 @@
 A function that finds missing number in array написана в файле 
 ### `./binarySearch.js`
 
-**Технологии**
+**Технологии**\
 ES6\
 Unit tests
 
