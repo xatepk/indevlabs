@@ -1,14 +1,21 @@
-**Интро**\
-A function that finds missing number in array написана в файле 
-### `./binarySearch.js`
+## Description
+```
+The goal is to find out missing number in a number series (array of numbers).  
+```
 
-**Технологии**\
-ES6\
-Unit tests
+### Tech stack
+```
+ES6, Jest
+```
 
-Функция протестирована с помощью unit тестов.\
-Для запуска тестов необходимо воспользоваться командой 
-### `yarn test`
+### **binarySearch** function covered by unit tests.  
 
-Для генерации массивов была создана функция, описание которой можно прочитать
-### `./testUtils/generateTestData.js`
+#### Available scripts:  
+```
+yarn test
+```  
+
+There is a function for test data creation (jsdoc description added)
+```
+./testUtils/generateTestData.js 
+```
