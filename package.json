@@ -1,0 +1,15 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "Khatyia",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
